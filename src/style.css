@@ -108,7 +108,7 @@
     width: 30px;
 }
 
-@media screen and (max-widh: 768px) {
+@media screen and (max-width: 768px) {
     .slider {
         height: 400px;
     }
